@@ -1,0 +1,29 @@
+#formulario{
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin-left:-180px;
+	margin-top:-330px;
+
+
+}
+
+#img{
+	filter: grayscale(40%);
+}
+
+#font{
+	color: black;
+	font-weight: 500;
+	font-size: 15px;
+}
+
+#font-input{
+	font-size: 30px;
+}
+
+#legend{
+	font-weight: 900;
+	font-size: 20px;
+	
+}
